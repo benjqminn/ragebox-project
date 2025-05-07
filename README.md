@@ -76,7 +76,7 @@ This is the development workflow I follow when building out RAGEBOX.
 ```bash
 # Clone the repository
 # (Requires GitHub access token)
-git clone https://github.com/YOUR_USERNAME/ragebox.git
+git clone https://github.com/benjqminn/ragebox.git
 cd ragebox
 
 # Set up virtualenv and install dependencies
