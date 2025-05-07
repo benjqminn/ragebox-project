@@ -1,5 +1,5 @@
 <p>
-  <img src="ragebox_header.png"/>
+  <img src="ragebox_logo.png"/>
 </p>
 
 ---
