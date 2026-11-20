@@ -14,7 +14,7 @@ It features advanced audio clip management, custom playlist creation, rage-level
 
 To get started with RAGEBOX, you need to have access to the private repository. For security reasons, the source code is not publicly available. However, this `README.md` is public to showcase legitimacy and technical depth.
 
-If you're a recruiter coming from LinkedIn and would like to verify the implementation, feel free to [DM me on LinkedIn](https://www.linkedin.com/in/btayl106). I’ll provide you with a `fine-grained personal access token` to review the source securely.
+If you're a recruiter coming from LinkedIn and would like to verify the implementation, feel free to [DM me on LinkedIn](https://www.linkedin.com/in/btayl106). We can arrange a guided source review or grant repository access through GitHub's normal collaborator permissions where appropriate. I do not share personal access tokens.
 
 
 
@@ -65,7 +65,7 @@ This is the development workflow I follow when building out RAGEBOX.
 
 ### 5. Deployment
 - Local desktop app
-- Private GitHub repo w/ recruiter-facing access tokens
+- Local desktop application; private implementation available for an approved, guided review
 
 
 
@@ -75,7 +75,7 @@ This is the development workflow I follow when building out RAGEBOX.
 
 ```bash
 # Clone the repository
-# (Requires GitHub access token)
+# Requires approved GitHub repository access; do not request another person's token
 git clone https://github.com/benjqminn/ragebox.git
 cd ragebox
 
@@ -102,7 +102,7 @@ Launches the RAGEBOX desktop window.
 - 📸 **Clip thumbnails + advanced search and sort**
 - 🧠 **Multi-select clip editing + drag-and-drop upload**
 - 🌐 **Linked GitHub and LinkedIn profile buttons**
-- 🔒 **Private GitHub repo access via token**
+- 🔒 **Private source code; access can be arranged through GitHub permissions**
 
 
 
@@ -137,6 +137,6 @@ Launches the RAGEBOX desktop window.
 
 If you’re a recruiter or engineer interested in the code:
 - 🔗 [DM me on LinkedIn](https://www.linkedin.com/in/btayl106)
-- I’ll provide you with a personal access token to the private repo.
+- Please contact me to arrange a guided review or appropriate GitHub collaborator access. Never send or request personal access tokens.
 
 Thank you for checking out **RAGEBOX**, our full-stack, rage-fueled gym music & clip management project.
